@@ -37,3 +37,71 @@ a:hover {
 
 
 
+#title h1{
+    text-align: center;
+    font-family: 'Pacifico', cursive;   
+}
+#about{
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+
+#rowa{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: space-between;
+    width: 100%;
+    padding: 2vw;
+}
+
+#five{
+    width: 45%;
+}
+#five img{
+   height: 40vw;
+   border-radius: 50px;
+
+}
+
+#seven{
+    font-family: 'Nunito', sans-serif;
+    width: 45%; 
+    padding-left: 2vw;
+    border: 2px solid #FF9F29;
+}
+.random{
+    text-align: center;
+    padding-bottom: 3vw;
+}
+#get_cocktail{
+    border-radius: 4vw;
+    padding: 1vw;
+    border: none;
+    padding:1vw 2vw 1vw 2vw;
+
+}
+#get_cocktail:hover{
+    background-color: #03fb66;
+    color: #f08903;
+    
+}
+
+#like-button{
+    border-radius: 4vw;
+    padding: 1vw;
+    border: none;
+    padding:1vw 2vw 1vw 2vw;
+
+}
+#like-button:hover{
+    background-color: #07ee63;
+    color: #D0C9C0;
+}
+#inputLike{
+    border-radius: 4vw;
+    border: none;
+    padding: 0vw;
+    width: 3vw;
+    color: #000000;
+}
