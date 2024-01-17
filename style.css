@@ -4,6 +4,9 @@ body {
     padding: 0;
 }
 
+.navbar{
+    background-color: #383737;
+}
 div {
     background-color: #000000;
     padding: 20px;
@@ -31,3 +34,6 @@ a {
 a:hover {
     color: #ffcc00;
 }
+
+
+
