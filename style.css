@@ -8,7 +8,7 @@ body {
     background-color: #383737;
 }
 div {
-    background-color: #000000;
+    background-color: #32f3bfc9;
     padding: 20px;
 }
 
@@ -87,21 +87,26 @@ a:hover {
     
 }
 
-#like-button{
-    border-radius: 4vw;
-    padding: 1vw;
-    border: none;
-    padding:1vw 2vw 1vw 2vw;
+#likeContainer {
+    display: flex;
+    align-items: center;
+}
 
-}
-#like-button:hover{
-    background-color: #07ee63;
-    color: #D0C9C0;
-}
-#inputLike{
-    border-radius: 4vw;
+#likeButton {
+    background-color: #3498db;
+    color: #fff;
     border: none;
-    padding: 0vw;
-    width: 3vw;
-    color: #000000;
+    padding: 12px 12px;
+    cursor: pointer;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+#inputLike {
+    border: 2px solid #3498db;
+    padding: 8px;
+    width: 40px;
+    text-align: center;
+    font-size: 14px;
+    margin-right: 10px;
 }
