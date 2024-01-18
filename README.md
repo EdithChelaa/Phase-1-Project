@@ -27,7 +27,9 @@ Getting:
 Use Live share extension to run the HTML File.
 
 ## Live Link
-Or you can access the web application directly via this [LINK.]
+Or you can access the web application directly via this [resilient-elf-0aeac3.netlify.app/
+Resources
+]
 
 
 ## Technologies Used
